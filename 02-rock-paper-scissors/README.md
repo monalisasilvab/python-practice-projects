@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-A simple game implemented in Python for learning and practice purposes.
+A rock paper scissors game implemented in Python for learning and practice purposes.
 
 ## Features
 - Single-player game against the computer
